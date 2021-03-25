@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <style type="text/css">
+        /*INCLUDE MAIN CSS FILE*/
+        {% capture criticalcss %}
+          {% include /2021_css/critical.scss %}
+        {% endcapture %}
+        {{ criticalcss | scssify }}
+    </style>
+    {% include 2021_data/js.html %}
+    {% include 2021_data/head.html %}
+    <body id="page-top" class="index">
+
+        {% include 2021_data/header-home.html %}
+
+        <!-- Header -->
+        <header>
+            <div class="container">
+                <div class="intro-text">
+                    <div class="intro-heading" style="text-transform: capitalize;">The 1st International Workshop on Human-centric Multimedia Analysis<br></div>
+                    <div class="intro-lead-in">20-24 October 2021</div>
+                    <div class="intro-lead-in">Cheng Du, China</div>
+                    <a href="https://2021.acmmm.org/" class="page-scroll btn btn-xl">View on ACM MM 2021</a>
+                </div>
+            </div>
+        </header>
+        {% include 2021_data/news.html %}
+        {% include 2021_data/intro.html %}
+        {% include 2021_data/speakers.html %}
+        {% include 2021_data/organizers.html %}
+    </body>
+    {% include 2021_data/footer.html %}
+</html>
