@@ -7,14 +7,14 @@
   topic: Topic
   description: Dr. Wu Liu is a Senior Researcher in JD AI Research, China. His current research interests include human behavior analysis and intelligent video surveillance. He received his Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Science in 2015. He has published more than 60 papers in prestigious conferences and journals in computer vision and multimedia. He received IEEE Trans. On Multimedia 2019 Prize Paper Award, IEEE Multimedia 2018 Best Paper Award, IEEE ICME 2016 Best Student Paper Award, and Chinese Academy of Sciences Outstanding Ph.D. Thesis Award in 2016, etc. He also won the 1st Place in the single and multi-person pose estimation tasks in CVPR 2018 Look into Person Challenge. Dr. Liu is the founding committee member of ACM FCA, and the committee member of IEEE CASS-MSA. He has also served as the Web Chair of ICME 2019, Publicity Chair of BIGMM 2018, and the Area Chairs of ACM MM 2019, ICME 2019, ICIP 2017, etc. Dr Wu Liu also organized the tutorials “Human Behavior Understanding":" From Human-Oriented Analysis to Action Recognition” in ICME 2019, the tutorials “Human-centric Visual Understanding” in ACM Multimedia Asia 2019, the special issue on “Intelligent Urban Computing with Big Data” in MVA 2018, and “Intelligent Analytics for Big Video Data” in MTAP 2019.
 
-- title: Chuang Gan
-  name: Chuang Gan
-  subtitle: MIT-IBM Watson AI Lab
-  img: chuanggan.jpg
-  thumbnail: chuanggan.jpg
+- title: Xinchen Liu
+  name: Xinchen Liu
+  subtitle: JD AI Research, Beijing, China
+  img: xinchenliu.jpg
+  thumbnail: xinchenliu.jpg
   alt: Picture of TBD
   topic: Topic
-  description: Chuang Gan is a research staff member at MIT-IBM Watson AI Lab. His research focus is on Computer Vision and Machine Learning. In particular, he is interested in multi-modal learning for video understanding. During his Ph.D., he has also spent time working at Stanford University, Carnegie Mellon University, University of Southern California, Google Research and Microsoft Research Redmond. Chuang is the recipient of Microsoft Graduate Fellowship and Baidu Graduate Fellowship in 2016. Chuang has won 1st Place in ActivityNet AVA Challenge 2018, 1st Place in ActivityNet Kinetics Challenge 2017, and 1st Place in NIST TRECVID MED and MER 2014. He is area chairs on ACM Multimedia 2019-2020, ICME 2019-2020, BMVC 2019, WACV 2019. He co-organized CVPR 2019 workshop on Multi-Modal learning from videos, and CVPR 2020 Tutorial on Neural-symbolic Visual Reasoning and Program Synthesis.
+  description: Dr. Xinchen Liu is a Senior Researcher as JD AI Research. His research interests include human-centric computer vision and its application in retail. He received the Ph.D. degree in computer science from Beijing University of Posts and Telecommunications in 2018. He received IEEE Trans. On Multimedia 2019 Prize Paper Award, IEEE ICME 2016 Best Student Paper Award, and Outstanding Doctoral Dissertation Award of China Society of Image and Graphics in 2019. Dr. Liu has won 1st Place in AI+Person Re-identification Track of National AI Challenge 2020, 2nd Place in Multi-Person Human Parsing Track of CVPR 2019 Look-into-Person Challenge, and 2nd in Single-Person Human Parsing Track of CVPR 2018 Look-into-Person Challenge. He also served as a PC member of ACM Multimedia, AAAI, ICME, etc.
 
 - title: Jingkuan Song
   name: Jingkuan Song
