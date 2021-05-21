@@ -9,7 +9,7 @@
             </div>
             <form id="searchForm" class="col-md-12 form-horizontal" role="form">
                 {% for post in site.data.twenty_21.organizers %}
-                    <div class="row">
+                    <div id = "{{ post.name }}" class="row">
                         <div class="col-md-4 speakers-item" style="vertical-align: text-top; margin-bottom:-3px">
                             <a href="{{ post.name }}" class="speakers-link" data-toggle="modal">
                                 <img src="../css/2021_style/img/organizers/{{ post.thumbnail }}" class="img-centered" width="224px" height="224px">
