@@ -1,12 +1,16 @@
-- title: Dr. Dima Damen
-  name: Dima Damen
-  subtitle: University of Bristol
-  thumbnail: dima.png
-- title: Prof. Cees Snoek
-  name: Cees Snoek
-  subtitle: the University of Amsterdam
-  thumbnail: cees.png
-- title: Ziwei Liu
-  name: Ziwei Liu
-  subtitle: Nanyang Technological University
-  thumbnail: ziwei.png
+- title: Prof. Yihong Gong
+  name: Yihong Gong
+  subtitle: Xian Jiaotong University
+  thumbnail: YihongGong.jpeg
+- title: Prof. Junwei Han
+  name: Junwei Han
+  subtitle: Northwestern Polytechnical University
+  thumbnail: JunweiHan.jpeg
+- title: Dr. Marta Mrak
+  name: Marta Mrak
+  subtitle: BBC Research and Development
+  thumbnail: MartaMrak.jpeg
+- title: Dr. Chuang Gan
+  name: Chuang Gan
+  subtitle: MIT-IBM Watson AI Lab
+  thumbnail: chuanggan.jpeg
