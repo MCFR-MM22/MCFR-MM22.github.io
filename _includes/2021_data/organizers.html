@@ -9,12 +9,12 @@
             </div>
             <div class="row">
             {% for post in site.data.twenty_21.organizers %}
-                <div class="col-sm-2 speakers-item">
+                <div class="col-sm-1 speakers-item">
                     <!-- <a href="{{ post.name }}" class="speakers-link" data-toggle="modal"> -->
-                    <center><img src="../css/2021_style/img/organizers/{{ post.thumbnail }}" class="img-centered img-rounded"  width="140px" height="140px"/></center>
+                    <center><img src="../css/2021_style/img/organizers/{{ post.thumbnail }}" class="img-centered img-rounded"  width="120px" height="120px"/></center>
                     <!-- </a> -->
                     <center><div class="speakers-caption" >
-                        <a href="/organizers_info"><h4 style="text-transform: capitalize;">{{ post.name }}</h4></a>
+                        <a href="/organizers_info"><h5 style="text-transform: capitalize;">{{ post.name }}</h4></a>
                         <p class="text-muted">{{ post.subtitle }}</p>
                     </div></center>
                 </div>
