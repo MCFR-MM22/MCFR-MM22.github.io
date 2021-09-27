@@ -6,10 +6,10 @@
   name: Junwei Han
   subtitle: Northwestern Polytechnical University
   thumbnail: JunweiHan.jpeg
-- title: Dr. Marta Mrak
-  name: Marta Mrak
-  subtitle: BBC Research&Development
-  thumbnail: MartaMrak.jpeg
+# - title: Dr. Marta Mrak
+#   name: Marta Mrak
+#   subtitle: BBC Research&Development
+#   thumbnail: MartaMrak.jpeg
 - title: Dr. Chuang Gan
   name: Chuang Gan
   subtitle: MIT-IBM Watson AI Lab
