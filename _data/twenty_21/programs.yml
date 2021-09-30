@@ -1,5 +1,5 @@
 - title: Workshop Opening
-  time: 13:30-13:40
+  time: 14:00-14:10
   people:
   link: none
 
@@ -9,22 +9,22 @@
   link: none
 
 - title: Brain-Inspired Machine Learning Methods
-  time: 13:40-14:20
+  time: 14:10-14:50
   people: Yihong Gong, Xi'an Jiaotong University, China
   link: none
 
 - title: Modern Learning Methodologies for Co-Saliency Detection
-  time: 14:20-15:00
+  time: 14:50-15:30
   people: Junwei Han, Northwestern Polytechnical University, China
   link: none
 
 - title: Human-Centric Audio Visual Learning
-  time: 15:00-15:40
+  time: 15:30-16:10
   people: Chuang Gan, MIT-IBM Watson AI Lab, USA
   link: none
 
 - title: Tea Break
-  time: 15:40-15:50
+  time: 16:10-16:20
   people: 
   link: none
   
@@ -34,22 +34,22 @@
   link: none
   
 - title: A Closer Look at Temporal Sentence Grounding in Videos:Dataset and Metric
-  time: 15:50-16:10
+  time: 16:20-16:40
   people: Yitian Yuan, Xiaohan Lan, Xin Wang, Long Chen, Zhi Wang, Wenwu Zhu
   link: none
 
 - title: Using Feature Interaction among GPS Data for Road Intersection Detection
-  time: 16:10-16:30
+  time: 16:40-17:00
   people: Rutian Qing, Yizhi Liu, Yijiang Zhao, Zhuhua Liao, Yuxuan Liu
   link: none
   
 - title: NLOS Imaging Assisted Navigation for BVI
-  time: 16:30-16:50
+  time: 17:00-17:20
   people: Yingxuan Zhu, Jian Li
   link: none
 
 - title: Learning Positional Priors for Pretraining 2D Pose Estimators
-  time: 16:50-17:10
+  time: 17:20-17:40
   people: Kun Zhang, Ping Yao, Rui Wu, Chuanguang Yang, Ding Li, Min Du, Kai Deng, Renbiao Liu, Tianyao Zheng
   link: none
 
@@ -59,7 +59,7 @@
   link: none
 
 - title: Modeling 3D Objects:Implications for Neuroscience, Behavioral and Medical Studies:A Case Demo
-  time: 17:10-17:30
+  time: 17:40-18:00
   people: Andrey Vlasov, Alexey Tumyalis, Vladislav Aksiotis, Carlos Nieto, Arsenjy Karavaev
   link: none
 
