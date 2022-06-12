@@ -25,15 +25,6 @@
   topic: Topic
   description: "Federico Becattini is a Postdoctoral Researcher and Adjunct Professor at the University of Florence. His research interests mostly focus on Autonomous Driving, Human Behavior understanding and Fashion Recommendation, also working with international academic and industrial partners. He has co-authored more than 20 scientific papers in journals and international conferences. He also serves as reviewer for top-tier conferences and journals in multimedia and computer vision. Recently, he has also co-organized the workshop “Facial and Body Expressions” at ICPR2020 and “Towards a Complete Analysis of People: From Face and Body to Clothes (T-CAP)”. at ICIAP2022."
 
-- title: yibingzhan
-  name: Yibing Zhan
-  subtitle: JD explore academy, China
-  img: yibingzhan.png
-  thumbnail: yibingzhan.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Yibing Zhan obtained his bachelor's degree and doctor's degree from the information science and technology school at the University of Science and Technology of China in 2012 and 2018. After graduating with a doctor's degree, from 2018 to 2020, Yibing Zhan served as an associate researcher in the school of computer science of Hangzhou Dianzi University. Now, Yibing Zhan works in the JD Explore Academy as an algorithm scientist and head of graph neural networks. He mainly explores graph models and multimodal learning tasks, such as cross-modal retrieval, scene graph generation, and graph neural networks. He has published many scientific papers in top conferences and journals, including CVPR, ACM mm, AAAI, IJCV, and IEEE TMM.
-
 - title: weiliguan
   name: Weili Guan
   subtitle: Monash University, Australia
@@ -42,7 +33,15 @@
   alt: Picture of TBD
   topic: Topic
   description: Weili Guan received the master degree from National University of Singapore. After that, she joined Hewlett Packard Enterprise in Singapore as a Software Engineer and worked there for around five years. She is currently a PhD student with the Faculty of Information Technology, Monash University (Clayton Campus), Australia. Her research interests are multimedia computing and information retrieval. She has published more than 20 papers at the first-tier conferences and journals, like ACM MM, SIGIR, and IEEE TIP.
-
+  
+- title: yibingzhan
+  name: Yibing Zhan
+  subtitle: JD explore academy, China
+  img: yibingzhan.png
+  thumbnail: yibingzhan.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Yibing Zhan obtained his bachelor's degree and doctor's degree from the information science and technology school at the University of Science and Technology of China in 2012 and 2018. After graduating with a doctor's degree, from 2018 to 2020, Yibing Zhan served as an associate researcher in the school of computer science of Hangzhou Dianzi University. Now, Yibing Zhan works in the JD Explore Academy as an algorithm scientist and head of graph neural networks. He mainly explores graph models and multimodal learning tasks, such as cross-modal retrieval, scene graph generation, and graph neural networks. He has published many scientific papers in top conferences and journals, including CVPR, ACM mm, AAAI, IJCV, and IEEE TMM.
 
 - title: tatsengchua
   name: Tat-Seng Chua
